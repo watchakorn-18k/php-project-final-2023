@@ -1,1 +1,41 @@
+MIT License
 
+Copyright (c) 2023 watchakorn-18k
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ลิขสิทธิ์ (c) 2566 watchakorn-18k
+
+อนุญาต ณ ที่นี้โดยไม่คิดค่าใช้จ่ายแก่ผู้ใด ๆ ที่ได้รับสำเนา
+ของซอฟต์แวร์นี้และไฟล์เอกสารที่เกี่ยวข้อง ("ซอฟต์แวร์") ที่จะจัดการ
+ในซอฟต์แวร์โดยไม่มีข้อจำกัด รวมถึงไม่จำกัดสิทธิ์
+เพื่อใช้ คัดลอก แก้ไข ผสาน เผยแพร่ แจกจ่าย ให้อนุญาตช่วง และ/หรือขาย
+สำเนาของซอฟต์แวร์และอนุญาตให้บุคคลที่เป็นเจ้าของซอฟต์แวร์
+ตกแต่งให้ทำได้โดยมีเงื่อนไขดังนี้
+
+ประกาศลิขสิทธิ์ข้างต้นและประกาศการอนุญาตนี้จะรวมอยู่ในทั้งหมด
+สำเนาหรือบางส่วนที่สำคัญของซอฟต์แวร์
+
+ซอฟต์แวร์นี้มีให้ "ตามสภาพที่เป็นอยู่" โดยไม่มีการรับประกันใด ๆ โดยชัดแจ้งหรือ
+โดยนัย ซึ่งรวมถึงแต่ไม่จำกัดเฉพาะการรับประกันความสามารถในการซื้อขาย
+ความเหมาะสมสำหรับวัตถุประสงค์เฉพาะและการไม่ละเมิด ไม่ว่าในกรณีใด
+ผู้เขียนหรือผู้ถือลิขสิทธิ์ต้องรับผิดต่อการเรียกร้องค่าเสียหายหรืออื่นๆ
+ความรับผิดไม่ว่าจะเป็นการกระทำตามสัญญา การละเมิด หรืออื่นๆ ที่เกิดขึ้นจาก
+ออกจากหรือเกี่ยวข้องกับซอฟต์แวร์หรือการใช้งานหรือการจัดการอื่น ๆ ใน
+ซอฟต์แวร์.
