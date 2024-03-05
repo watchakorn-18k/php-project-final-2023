@@ -1,5 +1,7 @@
 # Soccer Management System
 
+<img align="center" src="https://cdn.discordapp.com/attachments/581018943041306641/1214625754906759209/image.png?ex=65f9cb62&is=65e75662&hm=658ca96d1c1862275fc5184e001ffaf8953e5d32992c3f70227dad62063579d8&">
+
 A PHP-based application for managing soccer teams and players.
 
 ## Features
